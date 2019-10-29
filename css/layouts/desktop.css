@@ -21,13 +21,13 @@ main {
 }
 article {
   width: 380px;
-  min-height: 200px;
+  height: 200px;
   float: left;
 }
 
 section {
   width: 190px;
-  min-height: 250px;
+  height: 250px;
   float: left;
 }
 
