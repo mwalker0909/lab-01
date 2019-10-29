@@ -1,26 +1,55 @@
-.mod-container{
-  background-color: #d8d8d8;
-}
-header {
-  width: 480px;
-  min-height: 75px;
+
+body * {
+  background-color: red;
 }
 
-aside {
+.nav {
+
   width: 480px;
-  min-height: 150px;
+  height: 75px;
+  background-color:green;
 }
-article {
+
+
+.sub-nav {
   width: 480px;
-  min-height: 125px;
+  height: 150px;
+  background-color: pink;
 }
-section {
-  float: left;
+
+.feature {
+  width: 480px;
+  height: 125px;
+}
+#e {
+  background-color: blueviolet;
+}
+#f {
+  background-color: cornsilk;
+  color:green;
+}
+#g {
+  background-color: pink;
+}
+#h {
+  background-color: salmon;
+}
+#c {
+  background-color: yellow;
+  color: blue;
+}
+#d {
+  background-color: orange;
+}
+
+.tile {
+  float:left;
   width: 240px;
-  min-height: 250px;
+  height: 250px;
 }
-footer {
-  clear: left;
+
+.footer {
+  clear: left; /* copied clear: left; from conor's work in order to place the footer under the tile*/
   width: 480px;
-  max-height: 80px;
+  height: 80px;
 }
