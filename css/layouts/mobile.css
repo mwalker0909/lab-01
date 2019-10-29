@@ -1,0 +1,55 @@
+
+body * {
+  background-color: red;
+}
+
+.nav {
+
+  width: 480px;
+  height: 75px;
+  background-color:green;
+}
+
+
+.sub-nav {
+  width: 480px;
+  height: 150px;
+  background-color: pink;
+}
+
+.feature {
+  width: 480px;
+  height: 125px;
+}
+#e {
+  background-color: blueviolet;
+}
+#f {
+  background-color: cornsilk;
+  color:green;
+}
+#g {
+  background-color: pink;
+}
+#h {
+  background-color: salmon;
+}
+#c {
+  background-color: yellow;
+  color: blue;
+}
+#d {
+  background-color: orange;
+}
+
+.tile {
+  float:left;
+  width: 240px;
+  height: 250px;
+}
+
+.footer {
+  clear: left; /* copied clear: left; from conor's work in order to place the footer under the tile*/
+  width: 480px;
+  height: 80px;
+}
