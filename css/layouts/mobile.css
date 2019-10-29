@@ -1,0 +1,26 @@
+.mod-container{
+  background-color: #d8d8d8;
+}
+header {
+  width: 480px;
+  min-height: 75px;
+}
+
+aside {
+  width: 480px;
+  min-height: 150px;
+}
+article {
+  width: 480px;
+  min-height: 125px;
+}
+section {
+  float: left;
+  width: 240px;
+  min-height: 250px;
+}
+footer {
+  clear: left;
+  width: 480px;
+  max-height: 80px;
+}

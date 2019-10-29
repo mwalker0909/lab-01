@@ -1,0 +1,38 @@
+header, aside, article, section, footer{
+  background-color: red
+}
+body {
+  max-width: 960px;
+  margin: auto;
+}
+header {
+  width: 960px;
+  min-height: 100px;
+}
+
+aside {
+  width: 200px;
+  min-height: 600px;
+  float: left;
+}
+
+main {
+  max-width: 960px;
+}
+article {
+  width: 380px;
+  min-height: 200px;
+  float: left;
+}
+
+section {
+  width: 190px;
+  min-height: 250px;
+  float: left;
+}
+
+footer {
+  width: 760px;
+  min-height: 150px;
+  float: left;
+}
